@@ -1,0 +1,6 @@
+{
+    "watch": ["source"],
+    "ext": "ts",
+    "ignore": [],
+    "exec": "ts-node ./source/rdf-to-bulk.ts"
+}
